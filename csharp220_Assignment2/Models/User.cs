@@ -5,6 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
 
+
+//  Jeff Peerson
+//  csharp220_Assignment2 
+
+
 namespace csharp220_Assignment2.Models
 {
     class User : IDataErrorInfo, INotifyPropertyChanged
